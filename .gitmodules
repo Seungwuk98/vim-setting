@@ -31,3 +31,6 @@
 [submodule "pack/schemes/opt/vim-one"]
 	path = pack/schemes/opt/vim-one
 	url = https://github.com/rakr/vim-one
+[submodule "pack/plugins/opt/YouCompleteMe"]
+	path = pack/plugins/opt/YouCompleteMe
+	url = https://github.com/ycm-core/YouCompleteMe
